@@ -1,0 +1,304 @@
+{roundoff:[{"position":" ", "shorthand":"{", "difficulty":0.2}]}
+{"tumbling_skills":
+	[
+		{"roundoff":
+			[
+				{"position":" ", "shorthand":"(", "difficulty":0.2}
+	
+			]
+		},
+		{"handspring":
+			[
+				{"position":" ", "shorthand":"f", "difficulty":0.2}
+			]
+		},
+		{"Flic-Flac":
+			[
+				{"position":" ", "shorthand":"f", "difficulty":0.2}
+			]
+		},
+		{"whipback":
+			[
+				{"position":" ", "shorthand":"^", "difficulty":0.3}
+			]
+		},
+		{"back tuck":
+			[
+				{"position":"O", "shorthand":"4o", "difficulty":0.5}
+			]
+		
+		},
+		{"back pike":
+			[
+				{"position":"<", "shorthand":"4<", "difficulty":0.6}
+			]
+		
+		},
+		{"back straight":
+			[
+				{"position":"\", "shorthand":"4\", "difficulty":0.6}
+			]
+		
+		},
+		{"front tuck":
+			[
+				{"position":"O", "shorthand":"O", "difficulty":0.5}
+			]
+		
+		},
+		{"front pike":
+			[
+				{"position":"<", "shorthand":"<", "difficulty":0.6}
+			]
+		
+		},
+		
+		{"side somersault":
+			[
+				{"position":"O ", "shorthand":"O", "difficulty":0.5}
+			]
+		
+		},
+		{"side somersault":
+			[
+				{"position":"<", "shorthand":"<", "difficulty":0.6}
+			]
+		
+		},
+		{"back ss with 1/2 twist":
+			[
+				{"position":"O ", "shorthand":"O", "difficulty":0.6}
+			]
+		
+		},
+		{"barani":
+			[
+				{"position":"O", "shorthand":"41o ", "difficulty":0.6}
+			]
+		
+		},
+		{"back ss with 1/1 twist":
+			[
+				{"position":" ", "shorthand":"42", "difficulty":0.7}
+			]
+		
+		},
+		{"back ss with 1 1/2 twist":
+			[
+				{"position":" ", "shorthand":"43", "difficulty":0.9}
+			]
+		
+		},
+		{"back ss with 2/1 twist":
+			[
+				{"position":" ", "shorthand":"44", "difficulty":1.1}
+			]
+		
+		},
+		{"back ss with 2 1/2 twist":
+			[
+				{"position":" ", "shorthand":"45", "difficulty":1.4}
+			]
+		
+		},
+		{"back ss with 3/1 twist":
+			[
+				{"position":" ", "shorthand":"46", "difficulty":1.7}
+			]
+		
+		},
+		{"back ss with 3 1/2 twist":
+			[
+				{"position":" ", "shorthand":"47", "difficulty":2.1}
+			]
+		
+		},
+		{"back ss with 4/1 twist":
+			[
+				{"position":" ", "shorthand":"48", "difficulty":2.5}
+			]
+		
+		},
+		{"double back ss":
+			[
+				{"position":"O", "shorthand":"8--o", "difficulty":2.0}
+			]
+		
+		},
+		{"double back ss":
+			[
+				{"position":"<", "shorthand":"*--< ", "difficulty":2.2}
+			]
+		
+		},
+		{"double back ss":
+			[
+				{"position":"\", "shorthand":"8--\", "difficulty":2.4}
+			]
+		
+		},
+		{"double front ss":
+			[
+				{"position":"O", "shorthand":".8--o", "difficulty":2.0}
+			]
+		
+		},
+		{"double front ss":
+			[
+				{"position":"<", "shorthand":".8--< ", "difficulty":2.2}
+			]
+		
+		},
+		{"double side ss":
+			[
+				{"position":"O", "shorthand":"8--o", "difficulty":2.0}
+			]
+		
+		},
+		{"double side ss":
+			[
+				{"position":"<", "shorthand":"8--<", "difficulty":2.2}
+			]
+		
+		},
+		{"half in tuck":
+			[
+				{"position":"O", "shorthand":"81-o", "difficulty":2.2}
+			]
+		
+		},
+		{"half in pike":
+			[
+				{"position":"<", "shorthand":"81-<", "difficulty":2.4}
+			]
+		
+		},
+		{"half out back tuck":
+			[
+				{"position":"O", "shorthand":"8-1o", "difficulty":2.2}
+			]
+		
+		},
+		{"half out back pike":
+			[
+				{"position":"<", "shorthand":"8-1<", "difficulty":2.4}
+			]
+		
+		},
+		{"half out back straight":
+			[
+				{"position":"\", "shorthand":"8-\", "difficulty":2.6}
+			]
+		
+		},
+		{"half out front tuck":
+			[
+				{"position":"O", "shorthand":".8-1o", "difficulty":2.2}
+			]
+		
+		},
+		{"half out front pike":
+			[
+				{"position":"<", "shorthand":".8-1<", "difficulty":3.4}
+			]
+		
+		},
+		{"full in back out tuck":
+			[
+				{"position":"O", "shorthand":"82-o", "difficulty":2.4}
+			]
+		
+		},{"full in back out pike":
+			[
+				{"position":"<", "shorthand":"82-< ", "difficulty":2.6}
+			]
+		
+		},
+		{"full in back out straight":
+			[
+				{"position":"\", "shorthand":"82-\", "difficulty":2.8}
+			]
+		
+		},
+		{"full and a half in back out ":
+			[
+				{"position":"\", "shorthand":"821\", "difficulty":3.2}
+			]
+		
+		},
+		{"full in full out ":
+			[
+				{"position":"O", "shorthand":"822o", "difficulty":3.2}
+			]
+		
+		},{"full in full out":
+			[
+				{"position":"", "shorthand":"", "difficulty":}
+			]
+		
+		},{"full in double full out tuck":
+			[
+				{"position":"O", "shorthand":"824o", "difficulty":4.4}
+			]
+		
+		},
+		{"full in double full out straight":
+			[
+				{"position":"\", "shorthand":"824\", "difficulty":4.8}
+			]
+		
+		},
+		{"double full in double full out ":
+			[
+				{"position":"\", "shorthand":"844\", "difficulty":6.4}
+			]
+		
+		},
+		{"triple back tuck":
+			[
+				{"position":"O", "shorthand":"12---o", "difficulty":4.5}
+			]
+		
+		},
+		{"triple back pike":
+			[
+				{"position":"<", "shorthand":"12---<", "difficulty":5.1}
+			]
+		
+		},{"triple back straight":
+			[
+				{"position":"\", "shorthand":"12---\", "difficulty":5.7}
+			]
+		
+		},
+		{"half in triple arabian tuck":
+			[
+				{"position":"O", "shorthand":"121--o", "difficulty":5.4}
+			]
+		
+		},
+		{"half in triple arabian pike":
+			[
+				{"position":"<", "shorthand":"121--<", "difficulty":5.9}
+			]
+		
+		},{"full in triple tuck":
+			[
+				{"position":"O", "shorthand":"122--o", "difficulty":6.3}
+			]
+		
+		},
+		{"full in triple pike":
+			[
+				{"position":"<", "shorthand":"122--<", "difficulty":6.9}
+			]
+		
+		},
+		{"quadruple back":
+			[
+				{"position":"O", "shorthand":"16----o", "difficulty":8.0}
+			]
+		
+		},
+	]
+}
